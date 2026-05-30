@@ -1,0 +1,6 @@
+{
+  "name": "VidCraft Pro",
+  "description": "A lightweight and professional video editor built entirely with Kotlin and Jetpack Compose, featuring precision cropping, speed control, transition filters, and export capabilities using ExoPlayer and FFmpeg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,27 @@
+.env
+.env.example
+local.properties
+.idea/
+build/
+# --- Build Files ---
+.gradle/
+build/
+app/build/
+
+.build-outputs/
+# --- IDE Settings ---
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# --- Local Config & Secrets ---
+# NEVER commit these
+local.properties
+.env
+.env.example
+secrets.properties
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
